@@ -1,11 +1,12 @@
 body {
-    background: linear-gradient(to right, #ff7e5f, #feb47b); ;
+    background-color: black;
     font-family: Arial, sans-serif;
 }
 
 .card {
     border-radius: 15px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #ff7e5f;
 }
 
 .card-header {
