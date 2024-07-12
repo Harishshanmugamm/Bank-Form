@@ -1,0 +1,28 @@
+body {
+    background: linear-gradient(to right, #ff7e5f, #feb47b); ;
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+input, textarea {
+    border-radius: 10px;
+    border-radius: 30px;
+}
+
+button {
+    width: 100%;
+    border-radius: 10px;
+}
